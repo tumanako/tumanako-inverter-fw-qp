@@ -1,0 +1,22 @@
+#Wed Mar 07 16:20:26 NZDT 2012
+eclipse.preferences.version=1
+environment/project/0.1834898086.1556985867/CONF/delimiter=\:
+environment/project/0.1834898086.1556985867/CONF/operation=append
+environment/project/0.1834898086.1556985867/CONF/value=${ConfigName}
+environment/project/0.1834898086.1556985867/append=true
+environment/project/0.1834898086.1556985867/appendContributed=true
+environment/project/0.1834898086/CONF/delimiter=\:
+environment/project/0.1834898086/CONF/operation=append
+environment/project/0.1834898086/CONF/value=${ConfigName}
+environment/project/0.1834898086/append=true
+environment/project/0.1834898086/appendContributed=true
+environment/project/0.648932717.395252653/CONF/delimiter=\:
+environment/project/0.648932717.395252653/CONF/operation=append
+environment/project/0.648932717.395252653/CONF/value=${ConfigName}
+environment/project/0.648932717.395252653/append=true
+environment/project/0.648932717.395252653/appendContributed=true
+environment/project/0.648932717/CONF/delimiter=\:
+environment/project/0.648932717/CONF/operation=append
+environment/project/0.648932717/CONF/value=${ConfigName}
+environment/project/0.648932717/append=true
+environment/project/0.648932717/appendContributed=true
