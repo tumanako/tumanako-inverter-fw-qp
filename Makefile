@@ -37,7 +37,7 @@
 # and points to the QP/C++ installation directory
 #
 ifndef QPCPP
-QPCPP := /home/bmentink/QP/qpcpp
+QPCPP := ../qpcpp
 endif
 
 #-----------------------------------------------------------------------------
@@ -51,12 +51,7 @@ MKDIR := mkdir
 # tools
 #
 ifeq ($(GNU_ARM),)
-#GNU_ARM = /usr/local/bin/arm-none-eabi
-GNU_ARM=/home/bmentink/ARM_Tools/arm-2010q1/bin/arm-none-eabi
-#GNU_ARM=/home/bmentink/ARM_Tools/arm-2011.09/bin/arm-none-eabi
-#GNU_ARM = /usr/local/lpcxpresso_4.2.0_224/tools/bin/arm-none-eabi
-#GNU_ARM=/home/bmentink/devkitPro/devkitARM/bin/arm-eabi
-#GNU_ARM=/usr/local/redsuite_4.2.0_225/redsuite/tools/bin/arm-none-eabi
+GNU_ARM = arm-none-eabi
 endif
 
 CC    := $(GNU_ARM)-gcc
